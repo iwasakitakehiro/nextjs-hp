@@ -10,7 +10,7 @@ export default function Contact() {
         <div className="flex justify-center mt-4">
           <Image
             className="rounded-full"
-            src="/icon.png"
+            src="/icon.PNG"
             width={60}
             height="60"
             alt="avatar"
